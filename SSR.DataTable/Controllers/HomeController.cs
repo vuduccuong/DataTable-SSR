@@ -1,4 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿// Copyright (c) CuongVD 2021. All rights reserved.
+// Licensed under the cuongvd license.
+// Email: vuduccuong.ck48@gmail.com.
+// Facebook: vuduc.cuong4
+
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using SSR.DataTable.Models;
 using System;

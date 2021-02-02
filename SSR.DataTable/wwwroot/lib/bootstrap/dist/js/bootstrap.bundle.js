@@ -1,8 +1,7 @@
-/*!
-  * Bootstrap v4.3.1 (https://getbootstrap.com/)
-  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
-  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
-  */
+// Copyright (c) CuongVD 2021. All rights reserved.
+// Licensed under the cuongvd license.
+// Email: vuduccuong.ck48@gmail.com.
+// Facebook: vuduc.cuong4
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('jquery')) :
   typeof define === 'function' && define.amd ? define(['exports', 'jquery'], factory) :

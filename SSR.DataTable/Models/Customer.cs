@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Copyright (c) CuongVD 2021. All rights reserved.
+// Licensed under the cuongvd license.
+// Email: vuduccuong.ck48@gmail.com.
+// Facebook: vuduc.cuong4
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;

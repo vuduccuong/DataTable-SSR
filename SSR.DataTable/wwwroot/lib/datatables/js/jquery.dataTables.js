@@ -1,6 +1,7 @@
-/*! DataTables 1.10.21
- * ©2008-2020 SpryMedia Ltd - datatables.net/license
- */
+// Copyright (c) CuongVD 2021. All rights reserved.
+// Licensed under the cuongvd license.
+// Email: vuduccuong.ck48@gmail.com.
+// Facebook: vuduc.cuong4
 
 /**
  * @summary     DataTables

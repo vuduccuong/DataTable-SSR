@@ -1,4 +1,9 @@
-﻿$(document).ready(function () {
+﻿// Copyright (c) CuongVD 2021. All rights reserved.
+// Licensed under the cuongvd license.
+// Email: vuduccuong.ck48@gmail.com.
+// Facebook: vuduc.cuong4
+
+$(document).ready(function () {
     'use-strics';
 
     const myTable = $('#my-table').dataTable({

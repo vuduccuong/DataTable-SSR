@@ -1,6 +1,7 @@
-/*! DataTables jQuery UI integration
- * ©2011-2014 SpryMedia Ltd - datatables.net/license
- */
+// Copyright (c) CuongVD 2021. All rights reserved.
+// Licensed under the cuongvd license.
+// Email: vuduccuong.ck48@gmail.com.
+// Facebook: vuduc.cuong4
 
 /**
  * DataTables integration for jQuery UI. This requires jQuery UI and

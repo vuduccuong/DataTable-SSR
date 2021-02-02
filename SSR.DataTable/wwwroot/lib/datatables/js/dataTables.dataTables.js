@@ -1,7 +1,7 @@
-/*! DataTables styling integration
- * ©2018 SpryMedia Ltd - datatables.net/license
- */
-
+// Copyright (c) CuongVD 2021. All rights reserved.
+// Licensed under the cuongvd license.
+// Email: vuduccuong.ck48@gmail.com.
+// Facebook: vuduc.cuong4
 (function( factory ){
 	if ( typeof define === 'function' && define.amd ) {
 		// AMD
